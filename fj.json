@@ -13,9 +13,9 @@
     "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/2.jpg",
     "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "priceCurrency": "₱",
+    "lat": 16.643331,
+    "lng": 120.448759
   },
   {
     "id": 201,
@@ -31,7 +31,7 @@
     "name": "Grapes Farm",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/4.JPG",
     "price": 115,
-    "priceCurrency": "EUR",
+    "priceCurrency": "₱",
     "lat": 48.881840,
     "lng": 2.343371
   },
@@ -40,7 +40,7 @@
     "name": "Superbe vue à 2 min du Sacré Coeur",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/5.jpg",
     "price": 135,
-    "priceCurrency": "EUR",
+    "priceCurrency": "₱",
     "lat": 48.888839,
     "lng": 2.339208
   },
@@ -49,7 +49,7 @@
     "name": "Pugad",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/11.jpg",
     "price": 90,
-    "priceCurrency": "EUR",
+    "priceCurrency": "₱",
     "lat": 48.827855,
     "lng": 2.350774
   }
