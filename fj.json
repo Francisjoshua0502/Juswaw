@@ -3,7 +3,7 @@
     "id": 145,
     "name": "Baluarte Watch Tower",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/1.jpg",
-    "price": 164,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.856798,
     "lng": 120.372840
@@ -12,7 +12,7 @@
     "id": 148,
     "name": "Tangadan Falls",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/2.jpg",
-    "price": 200,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.643331,
     "lng": 120.448759
@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Lighthouse",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/3.jpg",
-    "price": 150,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.614786,
     "lng": 120.280399
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Grapes Farm",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/4.JPG",
-    "price": 115,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.461045,
     "lng": 120.333926
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "PUGAD, Pugo Adventure",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/5.jpg",
-    "price": 135,
+    "price": 150,
     "priceCurrency": "₱",
     "lat": 16.336665,
     "lng": 120.478869
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/11.png",
-    "price": 90,
+    "price": 0,
     "priceCurrency": "₱",
     "lat": 16.847389,
     "lng": 120.371696
