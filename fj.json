@@ -23,8 +23,8 @@
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/3.jpg",
     "price": 150,
     "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.614786,
+    "lng": 120.280399
   },
   {
     "id": 205,
@@ -37,7 +37,7 @@
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
+    "name": "Pugad",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/5.jpg",
     "price": 135,
     "priceCurrency": "₱",
@@ -46,7 +46,7 @@
   },
   {
     "id": 211,
-    "name": "Pugad",
+    "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/11.jpg",
     "price": 90,
     "priceCurrency": "₱",
