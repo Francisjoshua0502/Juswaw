@@ -1,55 +1,118 @@
 [
   {
     "id": 145,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/1.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.856798,
-    "lng": 120.372840
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/a.jpg",
+    "price": 745,
+    "priceCurrency": "km",
+    "lat": 11.967375, 
+    "lng": 121.924815
   },
   {
     "id": 148,
-    "name": "Tangadan Falls",
-    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/2.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.643331,
-    "lng": 120.448759
+    "name": "Bohol",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/b.jpg",
+    "price": 1227,
+    "priceCurrency": "km",
+    "lat": 9.848754, 
+    "lng": 124.142999
   },
   {
     "id": 201,
-    "name": "Lighthouse",
-    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/3.jpg",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.614786,
-    "lng": 120.280399
+    "name": "Cebu",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/c.jpg",
+    "price": 1157,
+    "priceCurrency": "km",
+    "lat": 9.849991, 
+    "lng": 124.143543
   },
   {
     "id": 205,
-    "name": "Grapes Farm",
-    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/4.JPG",
-    "price": 0,
-    "priceCurrency": "₱",
-    "lat": 16.461045,
-    "lng": 120.333926
+    "name": " Banaue",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/d.JPG",
+    "price": 180,
+    "priceCurrency": "km",
+    "lat": 16.949626, 
+    "lng": 121.054440
   },
   {
     "id": 210,
-    "name": "PUGAD, Pugo Adventure",
-    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/5.jpg",
+    "name": "Vigan",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/e.jpg",
     "price": 150,
+    "priceCurrency": "km",
+    "lat": 17.570490, 
+    "lng": 120.387330
+  },
+   {
+    "id": 112,
+    "name": "Manila",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/f.jpg",
+    "price": 300,
+    "priceCurrency": "km",
+    "lat": 14.599512, 
+    "lng": 120.984219
+  },
+   {
+    "id": 113,
+    "name": "Davao",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/g.jpg",
+    "price": 1818,
+    "priceCurrency": "km",
+    "lat": 7.190708, 
+    "lng": 125.455341
+  },
+   {
+    "id": 114,
+    "name": "Sagada",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/h.jpg",
+    "price": 141,
     "priceCurrency": "₱",
-    "lat": 16.336665,
-    "lng": 120.478869
+    "lat": 17.098135, 
+    "lng": 120.907304
+  },
+   {
+    "id": 115,
+    "name": "Coron Island",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/i.jpg",
+    "price": 746,
+    "priceCurrency": "km",
+    "lat": 11.928329, 
+    "lng": 120.239734
+  },
+   {
+    "id": 116,
+    "name": "Baguio",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/j.jpg",
+    "price": 91.2,
+    "priceCurrency": "km",
+    "lat": 16.402333, 
+    "lng": 120.596007
+  },
+   {
+    "id": 117,
+    "name": " Puerto Princesa",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/k.jpg",
+    "price": 1070,
+    "priceCurrency": "km",
+    "lat": 9.967216, 
+    "lng": 118.785510
+  },
+   {
+    "id": 118,
+    "name": "Samal",
+    "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/l.jpg",
+    "price": 1797,
+    "priceCurrency": "₱",
+    "lat": 7.103312, 
+    "lng": 125.718846
   },
   {
     "id": 211,
     "name": "Home",
     "imageUrl": "https://raw.githubusercontent.com/Francisjoshua0502/Juswaw/master/11.png",
     "price": 0,
-    "priceCurrency": "₱",
+    "priceCurrency": "km",
     "lat": 16.847389,
     "lng": 120.371696
   }
